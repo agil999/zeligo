@@ -470,7 +470,7 @@ body{
       <div class="card text-center bg-dark text-white">
         <img src="https://tse2.mm.bing.net/th?id=OIP.qnbdLYDGS_uup1A0y0xLtAAAAA&pid=Api&P=0" href="ml/" class="card-img-top" alt="...">
         <div class="card-body">
-          <h5 href="" class="card-title" >MOBILE LEGEND</h5>
+          <h5 href="" class="card-title" >MOBILE LEGEdND</h5>
          </div> 
      </div>
     </div>
