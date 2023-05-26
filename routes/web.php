@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\OrderController;
+use App\Http\Controllers\Auth\LoginController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,9 +22,9 @@ Route::get('/', function () {
 
 Auth::routes();
 Route::post('/hom', [OrderController::class, 'hom']);
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('/mobile-legend', [OrderController::class, 'ml'])->name('ml');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/mobile-legend', [LoginController::class, 'ml'])->name('ml');
 Route::get('/ujicoba', [OrderController::class, 'ujicoba'])->name('ujicoba');
 
 
