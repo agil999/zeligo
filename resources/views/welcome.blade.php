@@ -354,7 +354,7 @@ body{
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previousss</span>
+          <span class="visually-hidden">Previous</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
@@ -455,7 +455,7 @@ body{
 <a href="#topup-scroll" id="topup-scroll" class="text-decoration-none">
   <div class="container mt-4">
   <div class="judul-kategori rounded bg-gradient-light text-dark">
-    <h5 class="text-center"  style="margin-top: 5px;"><strong>TOP-UP SEKARANG</strong></h5>
+    <h5 class="text-center"  style="margin-top: 5px;"><strong>TOP-UP scSEKARANG</strong></h5>
   </div>
 </div>
 </a>
